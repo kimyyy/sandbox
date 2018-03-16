@@ -3,3 +3,4 @@ test
 hoge
 commit
 end
+last

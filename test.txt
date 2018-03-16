@@ -3,3 +3,5 @@ first
 test
 hoge
 commit
+end
+last
